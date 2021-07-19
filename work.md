@@ -3,7 +3,7 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: My Interest 1
+  - title: White Cloud Apps - Quench Software Engineer Intern , June 2020 - December 2020
     image:
       src: /assets/img/work/water.png
       alt: water
@@ -21,8 +21,8 @@ This is an example of a "Work" page, displaying your work, your interests, your 
 
 <h3> Experience </h3>
 
-<h4>White Cloud Apps - Quench </h4> 
-<h5>Software Engineer Intern , June 2020 - December 2020 </h5> 
+<h4> </h4> 
+<h5> </h5> 
 <h5>(Swift, Agile, Git, Xcode, Firebase, Frameworks: Core Data, CloudKit) </h5> 
 <ul>
   <li>Cloud iOS application that tracks users daily water intake.</li>
