@@ -12,3 +12,25 @@ profile_picture:
 <p>
   You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
 </p>
+
+<h3>Skills </h3>
+<table>
+  <tr>
+    <th>Languages</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>Java</td>
+    <td>Python</td>
+    <td>Swift (IOS)</td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>Javascript</td>
+    <td> </td>
+  </tr>
+</table>
