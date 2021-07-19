@@ -34,3 +34,9 @@ profile_picture:
     <td> </td>
   </tr>
 </table>
+
+<h3> Education </h3> 
+
+
+
+
